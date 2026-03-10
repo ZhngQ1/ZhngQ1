@@ -15,6 +15,7 @@ M.S. student in Electrical and Computer Engineering at **UC San Diego**, working
 | [MLLM-as-a-Judge](https://github.com/ZhngQ1/MLLM-as-a-Judge) | Benchmark for evaluating MLLMs as judges of vision-task outputs | Paper in prep |
 | [TAP-ViTs](https://github.com/ZhngQ1/Large-AI-models-lightweight-research) | Task-adaptive pruning for deploying ViTs on edge devices | [![arXiv](https://img.shields.io/badge/arXiv-2601.02437-b31b1b.svg)](https://arxiv.org/abs/2601.02437) |
 | [Noise-Level-Dependence](https://github.com/ZhngQ1/Measuring-Noise-Level-Dependence-in-Conditional-Image-Generation) | Measuring how conditioning effectiveness varies with noise level in diffusion models | Extended research |
+| [Face-Swap-Diffusion](https://github.com/ZhngQ1/Face-Swap-Diffusion) | Exploring sampling schedulers and identity guidance mechanisms for conditional diffusion model-based face swapping | Undergraduate Thesis |
 
 ## Publications
 
